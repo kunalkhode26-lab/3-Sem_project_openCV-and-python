@@ -40,7 +40,7 @@ This project was created to learn and practice computer vision, color detection,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/opencv-air-drawing.git
+git clone https://github.com/kunalkhode26-lab/opencv-air-drawing.git
 ```
 
 ### 2. Open the Project Folder
